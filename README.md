@@ -10,4 +10,4 @@ Java
 
 SpringBoot
 
-Javascrit
+Javascript
